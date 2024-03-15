@@ -22,7 +22,7 @@ test("non-letter characters", () => {
 });
 
 test("every other character", () => {
-  expect(detectIntruders("A!B£c$D%E^F&G*H@I#")).toBe("ABCDEFGHI");
+  expect(detectIntruders("A!B£C$D%E^F&G*H@I#")).toBe("ABCDEFGHI");
 });
 
 test("half lowercase", () => {

@@ -2,8 +2,8 @@
 
 ## Setup
 
-- install vitest and establish test script
-- write a skeleton test to check it's working
+- Install vitest and establish test script
+- Write a skeleton test to check it's working
 
 ## MVP 1
 
@@ -45,5 +45,3 @@ There are rumours of abandoned ghost ships floating around out there... Capital 
 - If more than half of the characters are not uppercase letters, return the string with the uppercase letters removed instead.
 - If no characters are uppercase letters, return the string "BLOW IT UP"
 - If the input string is empty, return the string "BLOW IT UP"
-
-Put your plan, story, and any supporting material here, you could use the help of a readme markdown generator such as [readme.so](https://readme.so/)

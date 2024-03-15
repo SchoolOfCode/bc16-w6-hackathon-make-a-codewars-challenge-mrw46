@@ -21,4 +21,4 @@ There are rumours of abandoned ghost ships floating around out there... Capital 
 
 */
 
-export function detectIntruders() {}
+export function detectIntruders(input) {}
