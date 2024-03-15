@@ -45,3 +45,23 @@ There are rumours of abandoned ghost ships floating around out there... Capital 
 - If more than half of the characters are not uppercase letters, return the string with the uppercase letters removed instead.
 - If no characters are uppercase letters, return the string "BLOW IT UP"
 - If the input string is empty, return the string "BLOW IT UP"
+
+### Examples
+
+Input: "ABCDE"\
+Expected output: "ABCDE"
+
+Input: "ABCDEabcde"\
+Expected output: "ABCDE"
+
+Input: "ABCDEabcdef"\
+Expected output: "abcdef"
+
+Input: "ABCDE&£$%"\
+Expected output: "ABCDE"
+
+Input: "abcde£$&@#!"\
+Expected output: "BLOW IT UP"
+
+Input: ""\
+Expected output: "BLOW IT UP"
