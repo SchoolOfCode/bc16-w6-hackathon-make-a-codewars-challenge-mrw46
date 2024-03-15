@@ -33,9 +33,10 @@ What you may not know is that lots of our Stringships have encountered hostile a
 
 Capital Command needs your help! We need you to check our Stringships and identify anyone who is not a true Capital Crewmember. If you find an intruder, blast them out of the airlock!
 
+If more than half of the crew has been replaced, the ship is lost and the remaining Capital Crewmembers must evacuate!
+
 ### Instructions
 
 - Write a function that takes in a string and removes any character which not an uppercase letter.
--
 
 Put your plan, story, and any supporting material here, you could use the help of a readme markdown generator such as [readme.so](https://readme.so/)
